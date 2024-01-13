@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzCCS", "EzCCS.csproj", "{1BC858E7-D31A-4BC6-AED5-13B9EAD3D6E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC858E7-D31A-4BC6-AED5-13B9EAD3D6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC858E7-D31A-4BC6-AED5-13B9EAD3D6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC858E7-D31A-4BC6-AED5-13B9EAD3D6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC858E7-D31A-4BC6-AED5-13B9EAD3D6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {212B14C2-81FC-46A0-9F6F-28B20FBFF05B}
+	EndGlobalSection
+EndGlobal

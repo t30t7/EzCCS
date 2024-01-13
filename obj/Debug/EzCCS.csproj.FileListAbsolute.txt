@@ -1,0 +1,10 @@
+C:\Users\tyson\Documents\RTKProjects\EzCCS\bin\Debug\EzCCS.exe.config
+C:\Users\tyson\Documents\RTKProjects\EzCCS\bin\Debug\EzCCS.exe
+C:\Users\tyson\Documents\RTKProjects\EzCCS\bin\Debug\EzCCS.pdb
+C:\Users\tyson\Documents\RTKProjects\EzCCS\obj\Debug\EzCCS.csproj.AssemblyReference.cache
+C:\Users\tyson\Documents\RTKProjects\EzCCS\obj\Debug\EzCCS.Form1.resources
+C:\Users\tyson\Documents\RTKProjects\EzCCS\obj\Debug\EzCCS.Properties.Resources.resources
+C:\Users\tyson\Documents\RTKProjects\EzCCS\obj\Debug\EzCCS.csproj.GenerateResource.cache
+C:\Users\tyson\Documents\RTKProjects\EzCCS\obj\Debug\EzCCS.csproj.CoreCompileInputs.cache
+C:\Users\tyson\Documents\RTKProjects\EzCCS\obj\Debug\EzCCS.exe
+C:\Users\tyson\Documents\RTKProjects\EzCCS\obj\Debug\EzCCS.pdb
